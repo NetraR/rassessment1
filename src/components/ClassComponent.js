@@ -6,7 +6,7 @@ class ClassComponent extends Component {
       <div className='Class'>
         <h1>This is created using Class Component</h1>
         <p>This is done using external CSS</p>
-        <p style={{ color: 'red' }}>This is done using inline CSS</p>
+        <p style={{ color: 'blue' }}>This is done using inline CSS</p>
       </div>
     );
   }
