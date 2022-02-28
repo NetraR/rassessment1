@@ -27,9 +27,9 @@
 
 
 import React, { Component } from 'react';
-import ClassComponent from './components/ClassComponent';
+import ClassComponent from './Component/ClassComponent';
 import './App.css';
-import FuncComponent from './components/FuncComponent';
+import FuncComponent from './Component/FuncComponent';
 
 class App extends Component {
   state = {
